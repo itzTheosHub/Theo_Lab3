@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Heap.cpp"
+#include "Heap.h"
 using namespace std;
 
 int main()
